@@ -16,7 +16,7 @@
     "node-xmpp-component": "git+https://github.com/node-xmpp/node-xmpp-component.git",
     "node-xmpp-client": "git+https://github.com/node-xmpp/node-xmpp-client.git",
     "node-xmpp-server": "git+https://github.com/node-xmpp/node-xmpp-server.git",
-    "node-xmpp-core": "git+https://github.com/node-xmpp/node-xmpp-core.git"
+    "node-xmpp-core": "git+https://github.com/qbit/node-xmpp-core.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
